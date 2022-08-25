@@ -16,7 +16,3 @@ This project is made using the following tools:
 - React Hooks
 - Context API
 - Intl.NumberFormat
-
-## Learn how to build ⚡
-
-Learn how to build this project on [my blog.](https://israelmitolu.hashnode.dev)
